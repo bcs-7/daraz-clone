@@ -1,0 +1,7 @@
+[
+    { "img":"img/silk-pillows.jpg" , "name":"Ultra Thin and Silky Smooth Pillows", "price": 3999 , "initialprice" : 4999 },
+    { "img":"img/facemask.png" ,"name":"Very comfy and Warm New Ninja Face Mask", "price": 499 , "initialprice" : 999},
+    { "img":"img/horlicks.png" ,"name":"Horlicks (500gm)", "price": 299, "initialprice" : 399},
+    { "img":"img/coat.png" ,"name":"New Thick and stylish Trech Coat for Men New Thick and stylish Trech Coat for Men", "price": 299, "initialprice" : 399},
+    { "img":"img/download.jpg" ,"name":"Lord of The Rings ANd the Hobbit Complete Series", "price": 5000, "initialprice" : 10000}
+]

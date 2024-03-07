@@ -1,0 +1,8 @@
+[
+    { "storename" : "Pulchowki Store", "productimg" : "/img/pul.png", "logo" : "/img/pul.png", "motto" : "Pulchowki Store"},
+    { "storename" : "Bagmati Plastics", "productimg" : "/img/container.png", "logo" : "/img/bagmati.png", "motto" : "Bagmati Plastics"},
+    { "storename" : "bbluv", "productimg" : "/img/bluv.png", "logo" : "/img/bblu.png", "motto" : "Every Moment Counts"},
+    { "storename" : "Viopatch", "productimg" : "/img/patch.png", "logo" : "/img/vio.png", "motto" : "Muscle pain relief patch"},
+    { "storename" : "SHANGRI-LA", "productimg" : "/img/f2e25c59e04e527fe5ef1fb35ce83f9a.jpg", "logo" : "/img/ss.jpeg", "motto" : "SHANGRI-LA"},
+    { "storename" : "Juas", "productimg" : "/img/tea.png", "logo" : "/img/juas.png", "motto" : "Online Health Food Store"}
+]

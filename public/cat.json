@@ -1,0 +1,14 @@
+[
+    { "icon": "img/icons8-woman-512 (1).png", "name": "Women's Fashion" },
+    { "icon": "img/icons8-lipstick-64 (1).png", "name": "Health & Beauty" },
+    { "icon": "img/icons8-shirt-64 (1).png", "name": "Men's Fashion" },
+    { "icon": "img/icons8-watches-64 (1).png", "name": "Watches & Accessories" },
+    { "icon": "img/icons8-fridge-100 (1).png", "name": "Electronic Devices" },
+    { "icon": "img/icons8-camera-500 (1).png", "name": "TV & Home Appliances" },
+    { "icon": "img/icons8-usb-100 (1).png", "name": "Electronic Accessories" },
+    { "icon": "img/icons8-basket-100 (1).png", "name": "Groceries & Pets" },
+    { "icon": "img/icons8-teddy-64 (1).png", "name": "Babies & Toys" },
+    { "icon": "img/icons8-couch-100 (1).png", "name": "Home & Lifestyle" },
+    { "icon": "img/icons8-basketball-100 (1).png", "name": "Sports & Outdoor" },
+    { "icon": "img/icons8-car-100 (1).png", "name": "Motors, Tools & DIY" }
+  ]

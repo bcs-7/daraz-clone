@@ -1,0 +1,19 @@
+[
+    { "Name" : "Leggings", "image" : "img/leggings.jpg"},
+    { "Name" : "Health Accessories", "image" : "img/hlth.png"},
+    { "Name" : "Heaters", "image" : "img/heater.png"},
+    { "Name" : "Serum & Essence", "image" : "img/serum.jpg"},
+    { "Name" : "Face Masks", "image" : "img/facemask.png"},
+    { "Name" : "Electric Kettles", "image" : "img/electrick.jpg"},
+    { "Name" : "Socks & Tights", "image" : "img/socks.jpg"},
+    { "Name" : "Cups, Mugs & Saucers", "image" : "img/cups.jpg"},
+    { "Name" : "Smartwatches", "image" : "img/smart.jpg"},
+    { "Name" : "Cleaning Buckets & Tubs", "image" : "img/cleaning.jpg"},
+    { "Name" : "Bathroom Scales", "image" : "img/bathroom.jpg"},
+    { "Name" : "Basic", "image" : "img/basic.jpg"},
+    { "Name" : "Thermal Flasks & Containers", "image" : "img/thermal.jpg"},
+    { "Name" : "Decorative Door Stops", "image" : "img/deco.jpg"},
+    { "Name" : "Balaclavas", "image" : "img/bala.jpg"},
+    { "Name" : "Calculators", "image" : "img/calc.jpg"}
+
+]
